@@ -1,1 +1,1 @@
-#removing duplaicate number after sorting
+#removing duplaicate number after sorting numbers
